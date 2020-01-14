@@ -1,0 +1,12 @@
+
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.DS_Store
+.ipynb_checkpoints/predict_games-checkpoint.ipynb
+.ipynb_checkpoints/predict_games-with stats-checkpoint.ipynb
+best_model.joblib.dat
+mlb.db
+predict_games-with stats.ipynb
+.idea/workspace.xml
+.idea/MLB_pred.iml
